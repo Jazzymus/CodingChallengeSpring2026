@@ -1,4 +1,4 @@
 package org.spring.gobus;
 
-public class Passanger {
+public class Passangers {
 }
